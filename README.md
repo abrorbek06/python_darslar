@@ -1,1 +1,1 @@
-# python_darslar
+Bu repositoriyda pythonda urganayotgan darsslar bor
