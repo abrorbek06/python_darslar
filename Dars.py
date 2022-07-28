@@ -74,7 +74,7 @@
 
 
 # >>......................................
-# .uppend()
+# .append()
 
 # aralash.append("banan")
 # aralash.append("anor")
@@ -548,7 +548,7 @@ juft_son = int(input('juft son kiriting\n??'))
 if juft_son%2:
     print('Juft son kiriting')
 else:
-    print('Rahmat')
+    print('To\'gri malades')
 
 # ......................................<<
 # \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
